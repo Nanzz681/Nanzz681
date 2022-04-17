@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://telegra.ph/file/fbbb43553b889d318e265.jpg" alt="Nanzzï¿½" width="300" />
+
+
 - 👋 Hi, I’m @Nanzz681
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
