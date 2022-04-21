@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/b19b3ad52b573da94ae6b.jpg" alt="Nanzz" width="500" />
+<img src="https://telegra.ph/file/b19b3ad52b573da94ae6b.jpg" alt="Nanzz" width="200" />
 
 <p align="center">
 
