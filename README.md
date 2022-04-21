@@ -10,7 +10,6 @@
 <p align='center'>
 
 <h3 align="left">My Social Media  </h3>
-
 <a href="https://www.instagram.com/NANZZ681"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 
 </p>
