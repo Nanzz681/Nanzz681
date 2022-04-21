@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://telegra.ph/file/b19b3ad52b573da94ae6b.jpg" alt="Nanzz" width="500" />
+
 <p align="center">
 
 <h1 align='center'>hello, this is a little about me</h1>
