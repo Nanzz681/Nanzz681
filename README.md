@@ -6,7 +6,7 @@
 
 <p align='center'>
 
-<a href="https://www.instagram.com/NANZZ681"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/Whatsapp.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/NANZZ681"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 
 </p>
 
